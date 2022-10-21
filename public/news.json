@@ -1,0 +1,23 @@
+[
+  {
+    "_id": 1,
+    "img": "https://i.ibb.co/7Cgy9xH/do2.jpg",
+    "title": "Art Deco: Everlasting Elegance",
+    "date": "August 2, 2022",
+    "news": "We offer the most complete house renovating services in the country, from kitchen design to bathroom remodeling."
+  },
+  {
+    "_id": 2,
+    "img": "https://i.ibb.co/7Cgy9xH/do2.jpg",
+    "title": "Art Deco: Everlasting Elegance",
+    "date": "August 2, 2022",
+    "news": "We offer the most complete house renovating services in the country, from kitchen design to bathroom remodeling."
+  },
+  {
+    "_id": 3,
+    "img": "https://i.ibb.co/7Cgy9xH/do2.jpg",
+    "title": "Art Deco: Everlasting Elegance",
+    "date": "August 2, 2022",
+    "news": "We offer the most complete house renovating services in the country, from kitchen design to bathroom remodeling."
+  }
+]

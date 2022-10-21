@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 1,
+    "img": "https://i.ibb.co/7Cgy9xH/do2.jpg",
+    "category": "Art Deco: Everlasting Elegance",
+    "description": "We offer the most complete house renovating services in the country, from kitchen design to bathroom remodeling."
+  },
+  {
+    "_id": 2,
+    "img": "https://i.ibb.co/QjRWQzG/do3.jpg",
+    "category": "Art Deco: Everlasting Elegance",
+    "description": "We offer the most complete house renovating services in the country, from kitchen design to bathroom remodeling."
+  },
+  {
+    "_id": 3,
+    "img": "https://i.ibb.co/80FDW3q/do1.jpg",
+    "category": "Art Deco: Everlasting Elegance",
+    "description": "We offer the most complete house renovating services in the country, from kitchen design to bathroom remodeling."
+  }
+]

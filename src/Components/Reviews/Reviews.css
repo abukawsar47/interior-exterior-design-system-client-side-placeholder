@@ -1,0 +1,24 @@
+.review-slider:before,
+.review-slider:after {
+  position: absolute;
+  display: block;
+
+  /* top: 50%; */
+}
+.review-slider:before {
+  content: url(../../assets/banner/quoteLeft.png);
+  left: 20px;
+  top: 20%;
+}
+.review-slider:after {
+  content: url(../../assets/banner/quoteRight.png);
+  right: 20px;
+  bottom: 20%;
+}
+@media only screen and (max-width: 600px) {
+  .review-slider:before,
+  .review-slider:after {
+    display: none;
+    padding: 0 30px;
+  }
+}

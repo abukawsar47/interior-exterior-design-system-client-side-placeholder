@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "img": "https://i.ibb.co/7YxXzcP/fun-facts.png",
+    "category": "Art Deco: Everlasting Elegance"
+  },
+  {
+    "_id": 2,
+    "img": "https://i.ibb.co/7YxXzcP/fun-facts.png",
+    "category": "Sofas: hospitable living room"
+  },
+  {
+    "_id": 3,
+    "img": "https://i.ibb.co/7YxXzcP/fun-facts.png",
+    "category": "California Coastal"
+  },
+  {
+    "_id": 4,
+    "img": "https://i.ibb.co/7YxXzcP/fun-facts.png",
+    "category": "Rugs with Geo style"
+  },
+  {
+    "_id": 5,
+    "img": "https://i.ibb.co/7YxXzcP/fun-facts.png",
+    "category": "Wabi-Sabi Philosophy"
+  },
+  {
+    "_id": 6,
+    "img": "https://i.ibb.co/7YxXzcP/fun-facts.png",
+    "category": "Salone del Mobile"
+  }
+]
